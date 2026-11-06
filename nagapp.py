@@ -13,7 +13,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-import database as db
+import nagdatabase as db
 
 # ---------------------------------------------------------------- settings
 CURRENCY = "₹"  # change to "$", "€", etc. if you like
